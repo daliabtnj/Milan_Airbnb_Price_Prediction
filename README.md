@@ -2,7 +2,7 @@
 
 This project analyzes Airbnb listings in Milan to uncover pricing patterns and build predictive models using real-world data. Conducted as part of a Data Science and AI course at NTU, the goal was to explore how factors like location, availability, and room type affect price.
 
-## 🔍 Objectives
+## Objectives
 - Perform Exploratory Data Analysis (EDA) to understand listing behavior and outliers  
 - Identify geographic pricing clusters using KMeans  
 - Build regression and classification models to predict price or price category  
